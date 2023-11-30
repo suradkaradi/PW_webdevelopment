@@ -1,0 +1,14 @@
+Q.4  Write a short note on Tag and element with an example?
+
+Tags
+	a piece of markup Language used to indicate the beginning and end of an HTML element in an HTML document 
+HTML tags are keyword which define that how web browser will  format and display the content.
+with the help of tags a web browser can  distinfuish between an HTML content and simple content Each 
+HTML tags have a different Proerties. 
+Example:- 1) <html> defines an HTML document
+          2) <P> defines a paragraph
+Element:
+	An HTML file is made of elements. These elements are responsible for creating web pages and define content in that webpage. An element in HTML usually consist of a start tag <tag name>, close tag </tag name> and content inserted between them. Technically, an element is a collection of start tag, attributes, end tag, content between them.
+
+Example:- 1) <p> hey this is aditya student of PW Skills</p>
+	

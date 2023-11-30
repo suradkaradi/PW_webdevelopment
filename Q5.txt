@@ -1,0 +1,3 @@
+Q5.  What is the DOCTYPE Declaration in HTML?
+ans:- the DOCTYPE declaration is not a HTML tag. It is an information to the browser about what document type to expect.
+this documents must start with a <!DOCTYPE> declaration.

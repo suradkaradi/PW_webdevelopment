@@ -1,0 +1,5 @@
+Q.2 Explain the purpose of comments in HTML and porvide an example of how to use comments in an HTML documents?
+
+comment provide information about the  code for developer reeaders this is non rendering text that HTML servers.
+this comments are ignored by the Browser and do nbot affect the rendering of the webpage this provide the information abut the code 
+to devloper
